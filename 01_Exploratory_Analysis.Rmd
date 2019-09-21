@@ -1,4 +1,13 @@
-# Capstone - Week 2
+---
+title: "Capstone - Week 2"
+author: "Camille"
+date: "30 avril 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message= FALSE, warning=FALSE, fig.width=12, fig.height=6)
+```
 
 ## I. Pre-processing of the data
 
