@@ -7,7 +7,7 @@ This application is the last assignment from Coursera's Data Science Specializat
 
 - The aim is to build a small Shiny app which takes as input the beginning of a sentence and returns a suggestion, or a list of suggestions, for the next word. 
 
-- The data was provided by Coursera and contained some texts of variable lengths extracted from twitter, the news and blogs. Here is the exploratory analysis performed on this data: https://rpubs.com/Camille_Curiace/385148
+- The data was provided by Coursera and contained some texts of variable lengths extracted from twitter, the news and blogs. 
 
 - This repository contains all the scripts needed to create this application.
 
