@@ -1,4 +1,4 @@
-# Capstone - Week 2"
+# Capstone - Week 2
 
 ## I. Pre-processing of the data
 
